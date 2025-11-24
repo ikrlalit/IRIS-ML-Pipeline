@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Log files
+*.log
+
+# Test coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# MyPy
+.mypy_cache/
+
+# MLflow artifacts (optional if using MLflow)
+mlruns/
+mlartifacts/
+
+# Environment configuration
+.env
+*.env
+*.ini
+*.cfg
+
+# GCP credentials and settings
+*.json
+
+# pip and poetry
+pip-log.txt
+poetry.lock
+__pypackages__/
+
+# Cache
+.cache/
+*.egg-info/
+.eggs/

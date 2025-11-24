@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+fastapi
+uvicorn
+opentelemetry-exporter-gcp-trace
+python-json-logger
